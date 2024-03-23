@@ -7,5 +7,5 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Eri9898/PostInstallationOSTIcket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eri9898/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-- [Azure: Installation, Configuration, and Troubleshooting in Active Directory](https://github.com/Eri9898/Active-Directory-Installation-Configuration-and-Troubleshooting)
+  - [Azure: Installation, Configuration, and Troubleshooting in Active Directory](https://github.com/Eri9898/Active-Directory-Installation-Configuration-and-Troubleshooting)
 
