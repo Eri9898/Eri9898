@@ -8,4 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eri9898/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure: Installation, Configuration, and Troubleshooting in Active Directory](https://github.com/Eri9898/Active-Directory-Installation-Configuration-and-Troubleshooting)
-  -[Network File Shares and Security Groups] (https://github.com/Eri9898/Network-File-Shares-and-Permissions)
+  - [Network File Shares and Security Groups](https://github.com/Eri9898/Network-File-Shares-and-Permissions)
